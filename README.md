@@ -1,1 +1,1 @@
-# C-28-EPIC-ARCHERY
+# Project Template 26
